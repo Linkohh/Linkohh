@@ -55,7 +55,20 @@ I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vi
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Primary AI workflow</strong>
+</p>
+
+<p align="center">
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
+  <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>Also comfortable with GitHub Copilot, Perplexity, Hugging Face, Llama, and DeepSeek.</sub>
 </p>
 
 ## GitHub Proof
