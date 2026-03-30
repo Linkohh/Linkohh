@@ -58,7 +58,7 @@ I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vi
 </p>
 
 <p align="center">
-  <strong>Primary AI workflow</strong>
+  <img src="./assets/ai-primary-workflow.svg" alt="Primary AI workflow" />
 </p>
 
 <p align="center">
@@ -71,6 +71,10 @@ I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vi
   <a href="https://gemini.google.com/">
     <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="./assets/ai-secondary-workflow.svg" alt="Also comfortable with" />
 </p>
 
 <p align="center">
