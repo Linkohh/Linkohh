@@ -23,17 +23,39 @@ I use AI to strengthen what I already know, not replace the fundamentals. The go
 ## Tools I Use
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white" />
+  </a>
+  <a href="https://vite.dev/">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  </a>
+  <a href="https://reactnative.dev/">
+    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://nodejs.org/en">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -41,10 +63,18 @@ I use AI to strengthen what I already know, not replace the fundamentals. The go
 </p>
 
 <p align="center">
-  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
-  <img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=flat&logo=replit&logoColor=white" />
-  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white" />
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visualstudiocode&logoColor=white" />
+  <a href="https://cursor.com/">
+    <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
+  </a>
+  <a href="https://replit.com/">
+    <img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=flat&logo=replit&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/xcode/">
+    <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visualstudiocode&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
