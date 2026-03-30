@@ -7,7 +7,9 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;|&nbsp;
-  <a href="mailto:your-email@example.com">Email (replace)</a>
+  <a href="https://www.xbox.com/en-US/play/user/tennisswag323">
+    <img alt="Xbox" src="https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />
+  </a>
   &nbsp;|&nbsp;
   <a href="https://github.com/Linkohh">GitHub</a>
 </p>
@@ -128,5 +130,5 @@ I am actively expanding this portfolio with experiments like `Vibeme` and other 
 If you want to connect around practical apps, AI-assisted workflows, or useful tools that solve real problems, feel free to reach out.
 
 - [LinkedIn](https://www.linkedin.com/in/lincolnogden98)
-- [Email (replace)](mailto:your-email@example.com)
+- [Xbox](https://www.xbox.com/en-US/play/user/tennisswag323)
 - [GitHub](https://github.com/Linkohh)
