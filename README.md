@@ -18,7 +18,7 @@ I use AI to strengthen what I already know, not replace the fundamentals. The go
 
 ## Featured Work
 
-### [Fitness Workout Planner](https://github.com/Linkohh/fitness)
+### [Fitness Workout Planner](https://github.com/Linkohh/fit-wizardly)
 
 Built to help users create personalized workout plans from a large exercise library without losing clarity around target muscles, reps, sets, rest time, or intensity.
 
@@ -32,7 +32,7 @@ A fast writing utility that gives instant word and character feedback so users c
 
 ### More in Progress
 
-I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vibeme`, and other app ideas focused on cleaner workflows, practical interfaces, and AI-supported product thinking.
+I am actively expanding this portfolio with experiments like `Vibeme` and other app ideas focused on cleaner workflows, practical interfaces, and AI-supported product thinking.
 
 `TypeScript` `Next.js` `AI Workflows`
 
@@ -98,10 +98,10 @@ I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vi
 ## GitHub Proof
 
 <p align="center">
-  <a href="https://github.com/Linkohh/fitness">
+  <a href="https://github.com/Linkohh/fit-wizardly">
     <img
       alt="Fitness Workout Planner repo card"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Linkohh&repo=fitness&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Linkohh&repo=fit-wizardly&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
     />
   </a>
   <a href="https://github.com/Linkohh/Counter-Characher-words-and-others-">
