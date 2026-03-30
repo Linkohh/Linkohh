@@ -62,9 +62,15 @@ I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vi
 </p>
 
 <p align="center">
-  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
-  <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white" />
+  <a href="https://chatgpt.com/">
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://claude.ai/">
+    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
+  </a>
+  <a href="https://gemini.google.com/">
+    <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
