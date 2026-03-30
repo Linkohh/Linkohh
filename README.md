@@ -58,7 +58,7 @@ I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vi
 </p>
 
 <p align="center">
-  <img src="./assets/ai-primary-workflow.svg" alt="Primary AI workflow" />
+  <strong>Primary AI workflow</strong>
 </p>
 
 <p align="center">
@@ -74,7 +74,7 @@ I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vi
 </p>
 
 <p align="center">
-  <img src="./assets/ai-secondary-workflow.svg" alt="Also comfortable with" />
+  <strong>Also comfortable with</strong>
 </p>
 
 <p align="center">
