@@ -1,0 +1,89 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Linkohh profile banner</title>
+  <desc id="desc">Dark profile banner with a pink and purple gradient, geometric details, and the text Linkohh, IT Professional, App Builder, and AI-Curious Problem Solver.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="40" x2="1180" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0612"/>
+      <stop offset="0.52" stop-color="#130A1F"/>
+      <stop offset="1" stop-color="#1C0E2A"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 130) rotate(18) scale(420 240)">
+      <stop stop-color="#FF4FB4" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#FF4FB4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 120) rotate(12) scale(360 220)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="stroke" x1="210" y1="98" x2="1070" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF77C8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glowLeft)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glowRight)"/>
+
+  <g opacity="0.22">
+    <path d="M0 56H1280" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M0 112H1280" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M0 168H1280" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M0 224H1280" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M0 280H1280" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M0 336H1280" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M120 0V420" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M240 0V420" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M360 0V420" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M480 0V420" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M600 0V420" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M720 0V420" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M840 0V420" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M960 0V420" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M1080 0V420" stroke="#F5E9FF" stroke-width="1"/>
+    <path d="M1200 0V420" stroke="#F5E9FF" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="74" y="68" width="6" height="148" rx="3" fill="#FF77C8"/>
+    <rect x="86" y="68" width="6" height="72" rx="3" fill="#8B5CF6"/>
+    <circle cx="1060" cy="102" r="58" stroke="url(#stroke)" stroke-width="2"/>
+    <circle cx="1060" cy="102" r="78" stroke="#F5E9FF" stroke-opacity="0.14"/>
+    <path d="M820 278C892 244 957 232 1124 250" stroke="url(#stroke)" stroke-width="2"/>
+    <path d="M915 298H1160" stroke="#FF77C8" stroke-opacity="0.4" stroke-width="2"/>
+  </g>
+
+  <g fill="#F8EEFF">
+    <text x="120" y="90" font-family="Verdana, Geneva, sans-serif" font-size="15" letter-spacing="3.8" fill="#F4C7E7">
+      PROFILE README
+    </text>
+    <text x="120" y="190" font-family="Georgia, Times New Roman, serif" font-size="86" font-weight="700">
+      Linkohh
+    </text>
+    <text x="120" y="236" font-family="Verdana, Geneva, sans-serif" font-size="24" fill="#E8D7FF">
+      IT Professional / App Builder / AI-Curious Problem Solver
+    </text>
+    <text x="120" y="292" font-family="Verdana, Geneva, sans-serif" font-size="22" fill="#F6E6FF">
+      Practical tools. Proactive learning. People-first problem solving.
+    </text>
+    <text x="120" y="330" font-family="Verdana, Geneva, sans-serif" font-size="16" fill="#CFB7E9">
+      Building beyond support through modern web projects, sharper workflows, and curiosity-led execution.
+    </text>
+  </g>
+
+  <g>
+    <rect x="890" y="180" width="290" height="118" rx="18" fill="#160D24" fill-opacity="0.9" stroke="url(#stroke)"/>
+    <text x="920" y="218" font-family="Verdana, Geneva, sans-serif" font-size="15" letter-spacing="2.6" fill="#D9B8F5">
+      FOCUS
+    </text>
+    <text x="920" y="250" font-family="Georgia, Times New Roman, serif" font-size="26" fill="#FFF4FF">
+      Learn fast.
+    </text>
+    <text x="920" y="280" font-family="Georgia, Times New Roman, serif" font-size="26" fill="#FFF4FF">
+      Build useful things.
+    </text>
+    <text x="920" y="310" font-family="Georgia, Times New Roman, serif" font-size="26" fill="#FFF4FF">
+      Keep users in view.
+    </text>
+  </g>
+</svg>
