@@ -63,35 +63,31 @@ I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vi
 
 <p align="center">
   <a href="https://chatgpt.com/">
-    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-C06C84?style=flat&logo=openai&logoColor=white" />
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" />
   </a>
   <a href="https://claude.ai/">
-    <img alt="Claude" src="https://img.shields.io/badge/Claude-B86AD9?style=flat&logo=claude&logoColor=white" />
+    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
   </a>
   <a href="https://gemini.google.com/">
-    <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8B5CF6?style=flat&logo=google%20gemini&logoColor=white" />
+    <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <strong>Also comfortable with</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/features/copilot">
-    <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-7C5CFF?style=flat&logo=githubcopilot&logoColor=white" />
+    <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=flat&logo=githubcopilot&logoColor=white" />
   </a>
   <a href="https://www.perplexity.ai/">
-    <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-6B8AF7?style=flat&logo=perplexity&logoColor=white" />
+    <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white" />
   </a>
   <a href="https://huggingface.co/">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-D96BD8?style=flat&logo=huggingface&logoColor=white" />
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=111111" />
   </a>
   <a href="https://llama.meta.com/">
-    <img alt="Meta Llama" src="https://img.shields.io/badge/Meta%20Llama-5568F2?style=flat&logo=meta&logoColor=white" />
+    <img alt="Meta Llama" src="https://img.shields.io/badge/Meta%20Llama-0467DF?style=flat&logo=meta&logoColor=white" />
   </a>
   <a href="https://www.deepseek.com/en">
-    <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-5E63F4?style=flat&logoColor=white" />
+    <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logoColor=white" />
   </a>
 </p>
 
