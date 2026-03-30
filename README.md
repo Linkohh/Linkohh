@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-here/">LinkedIn (replace)</a>
+  <a href="https://www.linkedin.com/in/lincolnogden98">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   &nbsp;|&nbsp;
   <a href="mailto:your-email@example.com">Email (replace)</a>
   &nbsp;|&nbsp;
@@ -123,6 +125,6 @@ I am actively expanding this portfolio with experiments like `Vibeme` and other 
 
 If you want to connect around practical apps, AI-assisted workflows, or useful tools that solve real problems, feel free to reach out.
 
-- [LinkedIn (replace)](https://www.linkedin.com/in/your-linkedin-here/)
+- [LinkedIn](https://www.linkedin.com/in/lincolnogden98)
 - [Email (replace)](mailto:your-email@example.com)
 - [GitHub](https://github.com/Linkohh)
