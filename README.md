@@ -20,35 +20,6 @@ I am an IT professional who likes turning real user problems into practical digi
 
 I use AI to strengthen what I already know, not replace the fundamentals. The goal is to keep learning fast, build useful things, and create experiences that feel clear, dependable, and genuinely helpful.
 
-## Featured Work
-
-### [Fitness Workout Planner](https://github.com/Linkohh/fit-wizardly)
-
-Built to help users create personalized workout plans from a large exercise library without losing clarity around target muscles, reps, sets, rest time, or intensity.
-
-`JavaScript` `HTML` `CSS`
-
-### [Word Count App](https://github.com/Linkohh/Counter-Characher-words-and-others-)
-
-A fast writing utility that gives instant word and character feedback so users can check limits, refine copy, and track text length in real time.
-
-`JavaScript` `HTML` `CSS`
-
-### More in Progress
-
-I am actively expanding this portfolio with experiments like `Vibeme` and other app ideas focused on cleaner workflows, practical interfaces, and AI-supported product thinking.
-
-`TypeScript` `Next.js` `AI Workflows`
-
-## How I Work
-
-- **Proactive**: I like moving early, learning quickly, and solving problems before they turn into friction.
-- **Curious**: I stay close to trends, test new tools, and keep expanding my technical range.
-- **People-first**: My support background keeps me focused on the user, not just the implementation.
-- **Adaptable**: I can move between troubleshooting, learning, building, and refining based on what the situation needs.
-- **Fast learner**: I pick up new frameworks, patterns, and tooling by doing the work.
-- **Solution-oriented**: I care about outcomes that are useful, clear, and dependable.
-
 ## Tools I Use
 
 <p align="center">
@@ -98,6 +69,35 @@ I am actively expanding this portfolio with experiments like `Vibeme` and other 
     <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logoColor=white" />
   </a>
 </p>
+
+## Featured Work
+
+### [Fitness Workout Planner](https://github.com/Linkohh/fit-wizardly)
+
+Built to help users create personalized workout plans from a large exercise library without losing clarity around target muscles, reps, sets, rest time, or intensity.
+
+`JavaScript` `HTML` `CSS`
+
+### [Word Count App](https://github.com/Linkohh/Counter-Characher-words-and-others-)
+
+A fast writing utility that gives instant word and character feedback so users can check limits, refine copy, and track text length in real time.
+
+`JavaScript` `HTML` `CSS`
+
+### More in Progress
+
+I am actively expanding this portfolio with experiments like `Vibeme` and other app ideas focused on cleaner workflows, practical interfaces, and AI-supported product thinking.
+
+`TypeScript` `Next.js` `AI Workflows`
+
+## How I Work
+
+- **Proactive**: I like moving early, learning quickly, and solving problems before they turn into friction.
+- **Curious**: I stay close to trends, test new tools, and keep expanding my technical range.
+- **People-first**: My support background keeps me focused on the user, not just the implementation.
+- **Adaptable**: I can move between troubleshooting, learning, building, and refining based on what the situation needs.
+- **Fast learner**: I pick up new frameworks, patterns, and tooling by doing the work.
+- **Solution-oriented**: I care about outcomes that are useful, clear, and dependable.
 
 ## GitHub Proof
 
