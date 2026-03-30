@@ -74,7 +74,21 @@ I am actively expanding this portfolio with experiments like `fit-wizardly`, `Vi
 </p>
 
 <p align="center">
-  <sub>Also comfortable with GitHub Copilot, Perplexity, Hugging Face, Llama, and DeepSeek.</sub>
+  <a href="https://github.com/features/copilot">
+    <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=flat&logo=githubcopilot&logoColor=white" />
+  </a>
+  <a href="https://www.perplexity.ai/">
+    <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=111111" />
+  </a>
+  <a href="https://llama.meta.com/">
+    <img alt="Meta Llama" src="https://img.shields.io/badge/Meta%20Llama-0467DF?style=flat&logo=meta&logoColor=white" />
+  </a>
+  <a href="https://www.deepseek.com/en">
+    <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logoColor=white" />
+  </a>
 </p>
 
 ## GitHub Proof
