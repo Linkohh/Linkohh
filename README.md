@@ -168,13 +168,13 @@ I care most about outcomes that are clear, dependable, and genuinely useful to t
   <a href="https://github.com/Linkohh">
     <img
       alt="Builder Snapshot"
-      src="https://github-readme-stats.vercel.app/api?username=Linkohh&custom_title=Builder%20Snapshot&show_icons=true&include_all_commits=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
+      src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Linkohh&custom_title=Builder%20Snapshot&show_icons=true&include_all_commits=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
     />
   </a>
   <a href="https://github.com/Linkohh">
     <img
       alt="Top Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linkohh&layout=compact&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
+      src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Linkohh&layout=compact&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
     />
   </a>
 </p>
@@ -183,13 +183,13 @@ I care most about outcomes that are clear, dependable, and genuinely useful to t
   <a href="https://github.com/Linkohh/fit-wizardly">
     <img
       alt="Fitness Workout Planner repo card"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Linkohh&repo=fit-wizardly&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
+      src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Linkohh&repo=fit-wizardly&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
     />
   </a>
   <a href="https://github.com/Linkohh/Counter-Characher-words-and-others-">
     <img
       alt="Word Count App repo card"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Linkohh&repo=Counter-Characher-words-and-others-&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
+      src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=Linkohh&repo=Counter-Characher-words-and-others-&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
     />
   </a>
 </p>
