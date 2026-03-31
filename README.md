@@ -18,11 +18,11 @@
 
 <p align="center">
   <a href="https://github.com/Linkohh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=IT+Support+Specialist+Tier+1+%26+2;Turning+Problems+Into+Digital+Tools;Always+Learning+New+Languages;AI-Assisted+Workflow+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Information+Technology+Support+Specialist+Tier+1+%26+2;Turning+Problems+Into+Digital+Tools;Always+Learning+New+Languages;AI-Assisted+Workflow+Builder" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">IT Professional | Practical Developer | UX-Focused | AI Enthusiast</h3>
+<h3 align="center">I.T. Professional | Practical Developer | UX-Focused | AI Enthusiast</h3>
 
 ## About Me
 
