@@ -142,12 +142,25 @@ I am actively expanding this portfolio with experiments like `Vibeme` and other 
 
 ## How I Work
 
-- **Proactive**: I like moving early, learning quickly, and solving problems before they turn into friction.
-- **Curious**: I stay close to trends, test new tools, and keep expanding my technical range.
-- **People-first**: My support background keeps me focused on the user, not just the implementation.
-- **Adaptable**: I can move between troubleshooting, learning, building, and refining based on what the situation needs.
-- **Fast learner**: I pick up new frameworks, patterns, and tooling by doing the work.
-- **Solution-oriented**: I care about outcomes that are useful, clear, and dependable.
+The way I work is shaped by curiosity, ownership, and a strong bias toward useful outcomes. I like to move with intention, keep people in view, and keep learning as I build.
+
+> ⚡ **Proactive**
+> I like moving early, reducing ambiguity, and solving problems before they turn into friction.
+
+> 🔍 **Curious**
+> I stay close to new tools, patterns, and ideas so I can keep expanding how I think and work.
+
+> 🤝 **People-first**
+> My support background keeps me focused on the user experience, not just the implementation details.
+
+> 🧭 **Adaptable**
+> I can shift between troubleshooting, learning, building, and refining based on what the situation actually needs.
+
+> 🧠 **Fast learner**
+> I pick up new frameworks, workflows, and technologies by doing the work and staying consistent with it.
+
+> 🎯 **Solution-oriented**
+> I care most about outcomes that are clear, dependable, and genuinely useful to the people on the other side.
 
 ## GitHub Proof
 
