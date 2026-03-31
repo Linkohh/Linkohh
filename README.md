@@ -10,8 +10,10 @@
   <a href="https://www.xbox.com/en-US/play/user/tennisswag323">
     <img alt="Xbox" src="https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />
   </a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/Linkohh">GitHub</a>
+  &nbsp;
+  <a href="https://github.com/Linkohh">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 **`Information Technology Support Specialist Tier 1 & 2`** 
