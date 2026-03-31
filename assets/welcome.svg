@@ -1,0 +1,13 @@
+<svg width="1280" height="100" viewBox="0 0 1280 100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="welcome-title">
+  <title id="welcome-title">Welcome to my GitHub!</title>
+  <defs>
+    <linearGradient id="welcome-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF77C8"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <text x="640" y="70" font-family="Georgia, Times New Roman, serif" font-size="64" font-weight="bold" fill="url(#welcome-grad)" text-anchor="middle">
+    Hello, welcome to my GitHub!
+  </text>
+</svg>

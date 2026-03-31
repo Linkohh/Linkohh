@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/welcome.svg" alt="Hello, welcome to my GitHub!" width="100%" />
+</p>
+
+<p align="center">
   <img src="./assets/profile-hero.svg" alt="Linkohh profile banner" width="100%" />
 </p>
 
