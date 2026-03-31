@@ -20,101 +20,6 @@ I am an IT professional who likes turning real user problems into practical digi
 
 I use AI to strengthen what I already know, not replace the fundamentals. The goal is to keep learning fast, build useful things, and create experiences that feel clear, dependable, and genuinely helpful.
 
-## Tools I Use
-
-<p align="center">
-  <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" />
-  </a>
-  <a href="https://nextjs.org/">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white" />
-  </a>
-  <a href="https://vite.dev/">
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
-  </a>
-  <a href="https://reactnative.dev/">
-    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  </a>
-  <a href="https://nodejs.org/en">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com/">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Editors &amp; Workflow</strong>
-</p>
-
-<p align="center">
-  <a href="https://cursor.com/">
-    <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
-  </a>
-  <a href="https://replit.com/">
-    <img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=flat&logo=replit&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/xcode/">
-    <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visualstudiocode&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Primary AI workflow</strong>
-</p>
-
-<p align="center">
-  <a href="https://chatgpt.com/">
-    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" />
-  </a>
-  <a href="https://claude.ai/">
-    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
-  </a>
-  <a href="https://gemini.google.com/">
-    <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Also comfortable with</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/features/copilot">
-    <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=flat&logo=githubcopilot&logoColor=white" />
-  </a>
-  <a href="https://www.perplexity.ai/">
-    <img alt="Perplexity" src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white" />
-  </a>
-  <a href="https://huggingface.co/">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=111111" />
-  </a>
-  <a href="https://llama.meta.com/">
-    <img alt="Meta Llama" src="https://img.shields.io/badge/Meta%20Llama-0467DF?style=flat&logo=meta&logoColor=white" />
-  </a>
-  <a href="https://www.deepseek.com/en">
-    <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logoColor=white" />
-  </a>
-</p>
-
 ## Featured Work
 
 ### [Fitness Workout Planner](https://github.com/Linkohh/fit-wizardly)
@@ -135,6 +40,32 @@ I am actively expanding this portfolio with experiments like `Vibeme` and other 
 
 `TypeScript` `Next.js` `AI Workflows`
 
+## GitHub Proof
+
+<p align="center">
+  <a href="https://github.com/Linkohh">
+    <img
+      alt="Builder Snapshot"
+      src="https://github-readme-stats.vercel.app/api?username=Linkohh&custom_title=Builder%20Snapshot&show_icons=true&include_all_commits=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&hide_border=true&border_radius=12&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Linkohh/fit-wizardly">
+    <img
+      alt="Fitness Workout Planner repo card"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Linkohh&repo=fit-wizardly&hide_border=true&border_radius=12&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
+    />
+  </a>
+  <a href="https://github.com/Linkohh/Counter-Characher-words-and-others-">
+    <img
+      alt="Word Count App repo card"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Linkohh&repo=Counter-Characher-words-and-others-&hide_border=true&border_radius=12&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
+    />
+  </a>
+</p>
+
 ## How I Work
 
 - **Proactive**: I like moving early, learning quickly, and solving problems before they turn into friction.
@@ -144,30 +75,62 @@ I am actively expanding this portfolio with experiments like `Vibeme` and other 
 - **Fast learner**: I pick up new frameworks, patterns, and tooling by doing the work.
 - **Solution-oriented**: I care about outcomes that are useful, clear, and dependable.
 
-## GitHub Proof
+## Stack & Workflow
 
 <p align="center">
-  <a href="https://github.com/Linkohh">
-    <img
-      alt="Builder Snapshot"
-      src="https://github-readme-stats.vercel.app/api?username=Linkohh&custom_title=Builder%20Snapshot&show_icons=true&include_all_commits=true&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
-    />
+  <a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white" />
+  </a>
+  <a href="https://vite.dev/">
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  </a>
+  <a href="https://nodejs.org/en">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Linkohh/fit-wizardly">
-    <img
-      alt="Fitness Workout Planner repo card"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Linkohh&repo=fit-wizardly&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
-    />
+  <strong>Platforms &amp; editors</strong><br />
+  <a href="https://reactnative.dev/">React Native</a> ·
+  <a href="https://developer.mozilla.org/en-US/docs/Web">HTML/CSS</a> ·
+  <a href="https://cursor.com/">Cursor</a> ·
+  <a href="https://code.visualstudio.com/">Visual Studio Code</a> ·
+  <a href="https://developer.apple.com/xcode/">Xcode</a> ·
+  <a href="https://replit.com/">Replit</a>
+</p>
+
+<p align="center">
+  <strong>Primary AI workflow</strong>
+</p>
+
+<p align="center">
+  <a href="https://chatgpt.com/">
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" />
   </a>
-  <a href="https://github.com/Linkohh/Counter-Characher-words-and-others-">
-    <img
-      alt="Word Count App repo card"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Linkohh&repo=Counter-Characher-words-and-others-&title_color=FF77C8&text_color=E9D9FF&icon_color=C084FC&bg_color=120A1F&border_color=452061"
-    />
+  <a href="https://claude.ai/">
+    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
   </a>
+  <a href="https://gemini.google.com/">
+    <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Also comfortable with
+  <a href="https://github.com/features/copilot">GitHub Copilot</a> ·
+  <a href="https://www.perplexity.ai/">Perplexity</a> ·
+  <a href="https://huggingface.co/">Hugging Face</a> ·
+  <a href="https://llama.meta.com/">Meta Llama</a> ·
+  <a href="https://www.deepseek.com/en">DeepSeek</a>
 </p>
 
 ## Connect
