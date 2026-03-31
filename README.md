@@ -11,16 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Linkohh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Information+Technology+Support+Specialist+Tier+1+%26+2;Turning+Problems+Into+Digital+Tools;Always+Learning+New+Languages;AI-Assisted+Workflow+Builder" alt="Typing SVG" /></a>
+  <a href="https://github.com/Linkohh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF77C8&center=true&vCenter=true&width=850&lines=Information+Technology+Support+Specialist+Tier+1+%26+2;Turning+Problems+Into+Digital+Tools;Always+Learning+New+Languages;AI-Assisted+Workflow+Builder" alt="Typing SVG" /></a>
 </p>
-
-<h3 align="center">I.T. Professional | Practical Developer | UX-Focused | AI Enthusiast</h3>
 
 ## About Me
 
-I am an IT professional who likes turning real user problems into practical digital tools. I am proactive by default, always learning, and I stay close to new technology so I can keep growing beyond day-to-day support work. My foundation comes from hands-on troubleshooting and user care, but I keep extending that foundation by building with Python, JavaScript, Next.js, and AI-assisted workflows.
+My foundation is in hands-on IT support and user care, which taught me firsthand how real people interact with systems. To solve problems faster and at a much larger scale, I've expanded my toolkit to include modern web development and AI-assisted workflows. 
 
-I use AI to strengthen what I already know, not replace the fundamentals. The goal is to keep learning fast, build useful things, and create experiences that feel clear, dependable, and genuinely helpful.
+I don't just write code; my goal is to bridge the gap between technical operations and intuitive user experiences. Whether it's crafting an interface with Next.js, scripting with Python, or leveraging AI to multiply my output, I aim to deliver solutions that are clear, dependable, and genuinely helpful.
 
 ## Tools I Use
 
