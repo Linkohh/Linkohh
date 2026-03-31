@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/lincolnogden98">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.xbox.com/en-US/play/user/tennisswag323">
     <img alt="Xbox" src="https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" />
   </a>
