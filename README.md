@@ -26,37 +26,40 @@ I use AI to strengthen what I already know, not replace the fundamentals. The go
 
 <p align="center">
   <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
   </a>
   <a href="https://nextjs.org/">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white" />
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </a>
   <a href="https://vite.dev/">
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   </a>
   <a href="https://tailwindcss.com/">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </a>
   <a href="https://reactnative.dev/">
-    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+    <img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://nodejs.org/en">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
   <a href="https://git-scm.com/">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <a href="https://github.com/">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -85,13 +88,13 @@ I use AI to strengthen what I already know, not replace the fundamentals. The go
 
 <p align="center">
   <a href="https://chatgpt.com/">
-    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" />
+    <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
   </a>
   <a href="https://claude.ai/">
-    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" />
+    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   </a>
   <a href="https://gemini.google.com/">
-    <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white" />
+    <img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
   </a>
 </p>
 
