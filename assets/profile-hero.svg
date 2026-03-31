@@ -72,17 +72,17 @@
   </g>
 
   <g>
-    <rect x="940" y="176" width="290" height="132" rx="18" fill="#160D24" fill-opacity="0.9" stroke="url(#stroke)"/>
-    <text x="1085" y="200" font-family="Verdana, Geneva, sans-serif" font-size="15" letter-spacing="2.6" fill="#D9B8F5" dominant-baseline="middle" text-anchor="middle">
+    <rect x="960" y="176" width="290" height="132" rx="18" fill="#160D24" fill-opacity="0.9" stroke="url(#stroke)"/>
+    <text x="1105" y="200" font-family="Verdana, Geneva, sans-serif" font-size="15" letter-spacing="2.6" fill="#D9B8F5" dominant-baseline="middle" text-anchor="middle">
       FOCUS
     </text>
-    <text x="1085" y="229" font-family="Georgia, Times New Roman, serif" font-size="24" fill="#FFF4FF" dominant-baseline="middle" text-anchor="middle">
+    <text x="1105" y="229" font-family="Georgia, Times New Roman, serif" font-size="24" fill="#FFF4FF" dominant-baseline="middle" text-anchor="middle">
       Learn fast.
     </text>
-    <text x="1085" y="257" font-family="Georgia, Times New Roman, serif" font-size="24" fill="#FFF4FF" dominant-baseline="middle" text-anchor="middle">
+    <text x="1105" y="257" font-family="Georgia, Times New Roman, serif" font-size="24" fill="#FFF4FF" dominant-baseline="middle" text-anchor="middle">
       Build useful things.
     </text>
-    <text x="1085" y="285" font-family="Georgia, Times New Roman, serif" font-size="24" fill="#FFF4FF" dominant-baseline="middle" text-anchor="middle">
+    <text x="1105" y="285" font-family="Georgia, Times New Roman, serif" font-size="24" fill="#FFF4FF" dominant-baseline="middle" text-anchor="middle">
       Keep users in view.
     </text>
   </g>
