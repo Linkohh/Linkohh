@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Linkohh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=850&lines=Information+Technology+Support+Specialist+Tier+1+%26+2;Turning+Problems+Into+Digital+Tools;Always+Learning+New+Languages;AI-Assisted+Workflow+Builder" alt="Typing SVG" />
+    <img src="https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif" alt="Typing GIF" />
   </a>
 </p>
 
