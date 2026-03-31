@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="14" height="28" viewBox="0 0 14 28">
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="28" viewBox="0 0 7 28">
   <defs>
     <linearGradient id="separator-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FF77C8"/>
       <stop offset="100%" stop-color="#C084FC"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="23" width="14" height="3" rx="1.5" fill="url(#separator-grad)" />
+  <rect x="0" y="23" width="7" height="3" rx="1.5" fill="url(#separator-grad)" />
 </svg>
