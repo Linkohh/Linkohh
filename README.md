@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Linkohh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=IT+Support+Specialist;Problem+Solver+%26+Builder;Python,+JS+%26+Next.js;AI-Assisted+Workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=IT+Support+Specialist+Tier+1+&+2;Problem+Solver+%26+Builder;Python,+JS+%26+Next.js;AI-Assisted+Workflows" alt="Typing SVG" />
   </a>
 </p>
 
