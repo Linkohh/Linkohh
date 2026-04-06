@@ -25,11 +25,11 @@
 
 ## About Me
 
-I build tools that make systems easier to use and problems easier to solve. My background in hands-on IT support gave me something most developers don't have: a firsthand understanding of how real people interact with technology when things go wrong.
+Most developers learn to code first, then learn to understand users. I did it the other way around. Years in hands-on IT support taught me how real people experience technology when systems fail — and that perspective shapes every interface I build.
 
-That foundation shapes everything I build. Whether I'm crafting an interface with Next.js, scripting automation with Python, or deploying AI-assisted workflows, I design for the person on the other end — not just the spec. I think in systems, communicate clearly, and move fast without cutting corners.
+That perspective shapes everything I build. Whether it's a Next.js interface, a Python script, or a workflow that saves someone an hour a day — I design for the person on the other end. I think in systems, communicate across technical and non-technical teams, and ship solutions that hold up in the real world.
 
-Right now I'm expanding deeper into full-stack development and AI-powered product thinking. I'm looking for roles where technical versatility and genuine user empathy are both valued.
+Right now I'm going deeper into product-minded development — building interfaces that don't just work, but feel right. If you value people who can move between operations and engineering, troubleshoot under pressure, and build things users actually want, let's talk.
 
 ## Tools I Use
 
@@ -101,7 +101,7 @@ The way I work is shaped by curiosity, ownership, and a strong bias toward usefu
 
 🔍 **Curious** — I stay close to new tools and patterns so I can keep expanding how I think and build.
 
-🤝 **People-first** — My IT support background keeps me focused on the user experience, not just the implementation.
+🤝 **People-first** — I think about the person using the tool before I think about the code that builds it.
 
 🧭 **Adaptable** — I shift between troubleshooting, learning, building, and refining based on what the moment needs.
 
@@ -111,7 +111,7 @@ The way I work is shaped by curiosity, ownership, and a strong bias toward usefu
 
 ## GitHub Proof
 
-This is a real-time snapshot of my development activity, tech stack, and primary repositories. I believe in letting the work speak for itself.
+Real-time look at my commit activity, languages, and primary repositories.
 
 ### 📊 Activity & Stack
 
@@ -131,9 +131,9 @@ This is a real-time snapshot of my development activity, tech stack, and primary
 
 ## Connect
 
-I'm actively exploring opportunities at the intersection of IT operations and software development — roles where systems thinking, user empathy, and hands-on building are all valued.
+If you're looking for someone who can think like a user, work like an engineer, and move fast without losing sight of the people involved — that's where I do my best work.
 
-If you're hiring, building something worth using, or want to talk AI-assisted workflows and practical tooling, I'd like to hear from you.
+If you're hiring, building something worth using, or just want to compare notes on how AI is changing the way developers work — reach out.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lincolnogden98"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://www.xbox.com/en-US/play/user/tennisswag323"><img alt="Xbox" src="https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://github.com/Linkohh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
