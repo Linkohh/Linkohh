@@ -33,7 +33,7 @@ Right now I'm going deeper into product-minded development — building interfac
 
 ## Tools I Use
 
-**Primary Stack**
+<h4 align="center">Primary Stack</h4>
 
 <p align="center">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://vite.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
