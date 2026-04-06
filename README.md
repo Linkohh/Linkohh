@@ -27,7 +27,7 @@
 
 Most developers learn to code first, then learn to understand users. I did it the other way around. Years in hands-on IT support taught me how real people experience technology when systems fail — and that perspective shapes every interface I build.
 
-That perspective shapes everything I build. Whether it's a Next.js interface, a Python script, or a workflow that saves someone an hour a day — I design for the person on the other end. I think in systems, communicate across technical and non-technical teams, and ship solutions that hold up in the real world.
+Whether it's a Next.js interface, a Python script, or a workflow that saves someone an hour a day — I design for the person on the other end. I think in systems, communicate across technical and non-technical teams, and ship solutions that hold up in the real world.
 
 Right now I'm going deeper into product-minded development — building interfaces that don't just work, but feel right. If you value people who can move between operations and engineering, troubleshoot under pressure, and build things users actually want, let's talk.
 
