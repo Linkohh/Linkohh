@@ -39,23 +39,19 @@ Right now I'm going deeper into product-minded development — building interfac
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://vite.dev/"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
 </p>
 
-**Build & Deploy**
+<h4 align="center">Build & Deploy</h4>
 
 <p align="center">
   <a href="https://nodejs.org/en"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <strong>Editors &amp; Workflow</strong>
-</p>
+<h4 align="center">Editors &amp; Workflow</h4>
 
 <p align="center">
   <a href="https://claude.ai/code"><img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://antigravity.google"><img alt="Google Antigravity" src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat&logo=google&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://openai.com/codex"><img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI%20Codex-5B6CF2?style=flat&logo=openai&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://cursor.com/"><img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://developer.apple.com/xcode/"><img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visualstudiocode&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://replit.com/"><img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=flat&logo=replit&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <strong>Primary AI workflow</strong>
-</p>
+<h4 align="center">Primary AI workflow</h4>
 
 <p align="center">
   <a href="https://claude.ai/"><img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://chatgpt.com/"><img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://gemini.google.com/"><img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /></a>
