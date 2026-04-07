@@ -88,12 +88,6 @@
     .p4 { animation: particle-drift 9s linear infinite 1s; }
     .p5 { animation: particle-drift 10s linear infinite 3s; }
     .p6 { animation: particle-drift 5s linear infinite 5s; }
-    @keyframes marquee-scroll {
-      from { transform: translateX(0); }
-      to { transform: translateX(-800px); }
-    }
-    .marquee { animation: marquee-scroll 15s linear infinite; }
-    .marquee-text { font-family: 'Courier New', Consolas, monospace; font-size: 14px; font-weight: bold; fill: #D9B8F5; letter-spacing: 2px; }
   </style>
 
   <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
@@ -177,15 +171,5 @@
     <text x="1105" y="285" font-family="Georgia, Times New Roman, serif" font-size="24" fill="#FFF4FF" dominant-baseline="middle" text-anchor="middle">
       Keep users in view.
     </text>
-  </g>
-  <g>
-    <rect x="0" y="380" width="1280" height="40" fill="#0A0612" fill-opacity="0.6" />
-    <path d="M0 380H1280" stroke="url(#stroke)" stroke-width="1" stroke-opacity="0.3"/>
-    <g class="marquee">
-      <text x="0" y="405" class="marquee-text">+++ REACT NATIVE +++ TYPESCRIPT +++ PYTHON +++ AWS +++ DOCKER +++ SQL +++ GRAPHQL </text>
-      <text x="800" y="405" class="marquee-text">+++ REACT NATIVE +++ TYPESCRIPT +++ PYTHON +++ AWS +++ DOCKER +++ SQL +++ GRAPHQL </text>
-      <text x="1600" y="405" class="marquee-text">+++ REACT NATIVE +++ TYPESCRIPT +++ PYTHON +++ AWS +++ DOCKER +++ SQL +++ GRAPHQL </text>
-      <text x="2400" y="405" class="marquee-text">+++ REACT NATIVE +++ TYPESCRIPT +++ PYTHON +++ AWS +++ DOCKER +++ SQL +++ GRAPHQL </text>
-    </g>
   </g>
 </svg>
