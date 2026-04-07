@@ -16,8 +16,6 @@
   <strong>Open to opportunities</strong> &nbsp;—&nbsp; IT Support &nbsp;·&nbsp; AI-Assisted Tooling &nbsp;·&nbsp; Web Development
 </p>
 
-<p align="center"><img src="./assets/spacer.svg" height="30" /></p>
-
 ## About Me
 
 Most developers learn to code first, then learn to understand users. I did it the other way around. Years in hands-on IT support taught me how real people experience technology when systems fail — and that perspective shapes every interface I build.
