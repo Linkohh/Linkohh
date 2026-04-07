@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-hero.svg?v=4" alt="Linkohh profile banner" width="100%" />
+  <img src="./assets/profile-hero.svg?v=5" alt="Linkohh profile banner" width="100%" />
 </p>
 
 <p align="center"><img src="./assets/spacer.svg" height="30" /></p>
