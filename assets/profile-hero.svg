@@ -54,15 +54,15 @@
       0%, 100% { opacity: 0.1; }
       50% { opacity: 0.45; }
     }
-    .glow-left { animation: pulse-left 4s ease-in-out infinite; }
-    .glow-right { animation: pulse-right 5.5s ease-in-out infinite; }
-    .floating-geometry { animation: subtle-float 4.5s ease-in-out infinite; }
-    .pulse-grid { animation: pulse-grid 7s ease-in-out infinite; }
+    .glow-left { animation: pulse-left 7s ease-in-out infinite; }
+    .glow-right { animation: pulse-right 9s ease-in-out infinite; }
+    .floating-geometry { animation: subtle-float 6s ease-in-out infinite; }
+    .pulse-grid { animation: pulse-grid 11s ease-in-out infinite; }
     @keyframes glass-pulse {
       0%, 100% { stroke-opacity: 0.2; }
       50% { stroke-opacity: 1; }
     }
-    .focus-card { animation: glass-pulse 6s ease-in-out infinite; }
+    .focus-card { animation: glass-pulse 10s ease-in-out infinite; }
     text { text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
     @keyframes shine-sweep {
       0%, 15% { transform: translateX(30px) skewX(-25deg); opacity: 0; }
