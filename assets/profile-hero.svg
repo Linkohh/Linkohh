@@ -21,9 +21,27 @@
     </linearGradient>
   </defs>
 
+  <style>
+    @keyframes pulse-left {
+      0%, 100% { opacity: 0.6; }
+      50% { opacity: 1; }
+    }
+    @keyframes pulse-right {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.5; }
+    }
+    @keyframes subtle-float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-4px); }
+    }
+    .glow-left { animation: pulse-left 7s ease-in-out infinite; }
+    .glow-right { animation: pulse-right 10s ease-in-out infinite; }
+    .floating-geometry { animation: subtle-float 6s ease-in-out infinite; }
+  </style>
+
   <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
-  <rect width="1280" height="420" rx="28" fill="url(#glowLeft)"/>
-  <rect width="1280" height="420" rx="28" fill="url(#glowRight)"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glowLeft)" class="glow-left"/>
+  <rect width="1280" height="420" rx="28" fill="url(#glowRight)" class="glow-right"/>
 
   <g opacity="0.22">
     <path d="M0 56H1280" stroke="#F5E9FF" stroke-width="1"/>
@@ -44,7 +62,7 @@
     <path d="M1200 0V420" stroke="#F5E9FF" stroke-width="1"/>
   </g>
 
-  <g opacity="0.9">
+  <g opacity="0.9" class="floating-geometry">
     <rect x="74" y="68" width="6" height="148" rx="3" fill="#FF77C8"/>
     <rect x="86" y="68" width="6" height="72" rx="3" fill="#8B5CF6"/>
     <circle cx="1060" cy="102" r="58" stroke="url(#stroke)" stroke-width="2"/>
