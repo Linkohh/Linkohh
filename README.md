@@ -3,25 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-hero.svg?v=5" alt="Linkohh profile banner" width="100%" />
+  <img src="./assets/profile-hero.svg?v=6" alt="Linkohh profile banner" width="100%" />
 </p>
-
-<p align="center"><img src="./assets/spacer.svg" height="30" /></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lincolnogden98"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://www.xbox.com/en-US/play/user/tennisswag323"><img alt="Xbox" src="https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white" /></a> &nbsp;<img src="./assets/separator.svg" width="7" alt="_" />&nbsp; <a href="https://github.com/Linkohh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
+  <br><img src="./assets/spacer.svg" height="10" /><br>
   <a href="https://github.com/Linkohh"><img src="https://komarev.com/ghpvc/?username=Linkohh&color=C084FC&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
-</p>
-
-<p align="center">
+  <br><img src="./assets/spacer.svg" height="15" /><br>
   <a href="https://github.com/Linkohh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C569DF&center=true&vCenter=true&width=850&lines=Turning+Problems+Into+Digital+Tools;I+Make+Tech+Feel+Human;AI-Assisted+Workflow+Builder;Next.js+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <img src="./assets/spacer.svg" height="20" /><br>
+  <br><img src="./assets/spacer.svg" height="5" /><br>
   <strong>Open to opportunities</strong> &nbsp;—&nbsp; IT Support &nbsp;·&nbsp; AI-Assisted Tooling &nbsp;·&nbsp; Web Development
 </p>
 
