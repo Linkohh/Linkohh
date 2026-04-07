@@ -23,27 +23,32 @@
 
   <style>
     @keyframes pulse-left {
-      0%, 100% { opacity: 0.6; }
+      0%, 100% { opacity: 0.15; }
       50% { opacity: 1; }
     }
     @keyframes pulse-right {
       0%, 100% { opacity: 1; }
-      50% { opacity: 0.5; }
+      50% { opacity: 0.1; }
     }
     @keyframes subtle-float {
       0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-4px); }
+      50% { transform: translateY(-12px); }
     }
-    .glow-left { animation: pulse-left 7s ease-in-out infinite; }
-    .glow-right { animation: pulse-right 10s ease-in-out infinite; }
-    .floating-geometry { animation: subtle-float 6s ease-in-out infinite; }
+    @keyframes pulse-grid {
+      0%, 100% { opacity: 0.1; }
+      50% { opacity: 0.45; }
+    }
+    .glow-left { animation: pulse-left 4s ease-in-out infinite; }
+    .glow-right { animation: pulse-right 5.5s ease-in-out infinite; }
+    .floating-geometry { animation: subtle-float 4.5s ease-in-out infinite; }
+    .pulse-grid { animation: pulse-grid 7s ease-in-out infinite; }
   </style>
 
   <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
   <rect width="1280" height="420" rx="28" fill="url(#glowLeft)" class="glow-left"/>
   <rect width="1280" height="420" rx="28" fill="url(#glowRight)" class="glow-right"/>
 
-  <g opacity="0.22">
+  <g opacity="0.22" class="pulse-grid">
     <path d="M0 56H1280" stroke="#F5E9FF" stroke-width="1"/>
     <path d="M0 112H1280" stroke="#F5E9FF" stroke-width="1"/>
     <path d="M0 168H1280" stroke="#F5E9FF" stroke-width="1"/>
