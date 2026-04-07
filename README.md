@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/welcome.svg" alt="Hello, welcome to my GitHub!" width="100%" />
+  <img src="./assets/welcome.svg?v=2" alt="Hello, welcome to my GitHub!" width="100%" />
   <br><img src="./assets/spacer.svg" height="5" /><br>
   <img src="./assets/profile-hero.svg?v=7" alt="Linkohh profile banner" width="100%" />
 </p>
@@ -9,7 +9,7 @@
   <br><img src="./assets/spacer.svg" height="10" /><br>
   <a href="https://github.com/Linkohh"><img src="https://komarev.com/ghpvc/?username=Linkohh&color=C084FC&style=flat-square&label=Profile+Views" alt="Profile Views" /></a>
   <br><img src="./assets/spacer.svg" height="5" /><br>
-  <a href="https://github.com/Linkohh"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C569DF&center=true&vCenter=true&width=850&lines=Turning+Problems+Into+Digital+Tools;I+Make+Tech+Feel+Human;AI-Assisted+Workflow+Builder;Next.js+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing SVG" /></a>
+  <a href="https://github.com/Linkohh"><img src="./assets/typing.svg?v=1" alt="Typing SVG" /></a>
   <br><img src="./assets/spacer.svg" height="5" /><br>
   <strong>Open to opportunities</strong> &nbsp;—&nbsp; IT Support &nbsp;·&nbsp; AI-Assisted Tooling &nbsp;·&nbsp; Web Development
 </p>

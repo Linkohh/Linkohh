@@ -7,6 +7,27 @@
     </linearGradient>
   </defs>
 
+  <style>
+    @keyframes breath {
+      0%, 100% { opacity: 0.4; filter: blur(6px); }
+      50% { opacity: 0.8; filter: blur(14px); }
+    }
+    .glow-back {
+      animation: breath 8s ease-in-out infinite;
+      transform-origin: center;
+    }
+    text {
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+    }
+  </style>
+
+  <!-- Glowing background text -->
+  <text class="glow-back" x="640" y="70" font-family="Georgia, Times New Roman, serif" font-size="64" font-weight="bold" fill="url(#welcome-grad)" text-anchor="middle">
+    Hello, welcome to my GitHub!
+  </text>
+  
+  <!-- Crisp foreground text -->
   <text x="640" y="70" font-family="Georgia, Times New Roman, serif" font-size="64" font-weight="bold" fill="url(#welcome-grad)" text-anchor="middle">
     Hello, welcome to my GitHub!
   </text>
