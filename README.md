@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/welcome.svg?v=2" alt="Hello, welcome to my GitHub!" width="100%" />
   <br><img src="./assets/spacer.svg" height="5" /><br>
-  <img src="./assets/profile-hero.svg?v=7" alt="Linkohh profile banner" width="100%" />
+  <img src="./assets/profile-hero.svg?v=8" alt="Linkohh profile banner" width="100%" />
 </p>
 
 <p align="center">
